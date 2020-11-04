@@ -1,0 +1,8 @@
+1. создать новуб ветку 
+    git branch <branch name> - 
+2. переключиться на созданную ветку
+    git checkout <branch name>
+3. запушить изменения на сервер
+    git push -u origin <branch name>
+4. посмотреть список веток
+    git branch
